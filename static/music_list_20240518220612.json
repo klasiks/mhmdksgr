@@ -1,0 +1,50 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "6a1aee8245182c25cd743c6787d67c5f",
+                "name": "1",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "مەھمۇت كاشغەرىي 1.قىسىم      mahmut qashqiri",
+                "url": "static/Mehmud Qeshqiri/1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "6a1aee8245182c25cd743c6787d67c5f",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "431d68025b1084522a24423d85a14065",
+                "name": "2",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "مەھمۇت كاشغەرىي mahmut qashqiri 2",
+                "url": "static/Mehmud Qeshqiri/2.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "431d68025b1084522a24423d85a14065",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "d667deef7b2540e07ca71ec066b48e12",
+                "name": "3",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "مەھمۇت كاشغەرىي mahmut qashqiri 3",
+                "url": "static/Mehmud Qeshqiri/3.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "d667deef7b2540e07ca71ec066b48e12",
+                "pic_id": "",
+                "lyric_id": ""
+            }
+        ]
+    }
+]
